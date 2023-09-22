@@ -6,4 +6,4 @@
 - Uploaded 22/09/2023
 
 # How to use ?
-curl -sL URL | sudo -E bash -
+curl -sL [URL](https://raw.githubusercontent.com/EletrixtimeYT/auto-install-scripts/main/linux/code/nodejs/install.sh)https://raw.githubusercontent.com/EletrixtimeYT/auto-install-scripts/main/linux/code/nodejs/install.sh | sudo -E bash -
